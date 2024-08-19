@@ -32,8 +32,7 @@
                         VerticalAlignment="Stretch"
                         Appearance="Secondary"
                         Background="{Binding Color, Mode=OneWay}"
-                        FontSize="25"
-                        Icon="Fluent24" />
+                        FontSize="25"                        />
                 </DataTemplate>
             </ItemsControl.ItemTemplate>
         </ui:VirtualizingItemsControl>
